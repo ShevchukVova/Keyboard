@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Keyboard</string>
+    <string name="notification_send">Повідомлення було відправленно</string>
+    <string name="switch_languages_UKR">Мову змінено на: УКРАЇНСЬКУ</string>
+    <string name="switch_languages_ENG">Мову змінено на: АНГЛІЙСЬКУ</string>
+    <string name="switch_symbols_DIG">Переключено на цифри</string>
+    <string name="switch_symbols_SYM">Переключено на символи</string>
+    <string name="switch_cases_LOW">Нижній регістр</string>
+    <string name="switch_cases_UPP">Верхній регістр</string>
+</resources>
